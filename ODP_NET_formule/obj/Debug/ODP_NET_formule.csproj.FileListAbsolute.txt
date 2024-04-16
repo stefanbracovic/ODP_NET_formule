@@ -1,0 +1,8 @@
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\bin\Debug\ODP_NET_formule.exe.config
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\bin\Debug\ODP_NET_formule.exe
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\bin\Debug\ODP_NET_formule.pdb
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\obj\Debug\ODP_NET_formule.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\obj\Debug\ODP_NET_formule.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\obj\Debug\ODP_NET_formule.exe
+C:\Users\Aleksandar\Desktop\novi-testovi-java\AJ\formule\ODP_NET_formule\ODP_NET_formule\obj\Debug\ODP_NET_formule.pdb
